@@ -1,7 +1,7 @@
 import random
 
 # train-all-19.txt 파일 경로
-input_file = 'train-all-19.txt'
+input_file = 'train-all-04.txt'
 
 # 분할된 train.txt 및 val.txt 파일 경로
 train_output_file = 'train.txt'
